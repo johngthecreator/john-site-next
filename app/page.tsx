@@ -46,7 +46,9 @@ export default function Home() {
         </div>
       </div>
       <div className="flex flex-row flex-wrap justify-center gap-5 md:gap-10 p-10">
-        <a className="text-[40px] text-center font-bold mb-3 hover:text-indigo-600 duration-300 ease-in-out" href="./John_Gorriceta_Resume_2023.pdf">&#9999;&#65039; - My Résumé - &#9999;&#65039;</a>
+        <a href="./John_Gorriceta_Resume_2023.pdf" className="w-[400px] h-[100px] flex justify-center items-center text-white font-bold text-2xl bg-indigo-600 border-solid border-indigo-600 border-4 rounded-xl hover:bg-white hover:text-indigo-600 hover:text-[50px] ease-in-out duration-300 ">
+          My Résumé
+        </a>
       </div>
     </main>
   )
