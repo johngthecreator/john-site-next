@@ -57,7 +57,7 @@ export default function Home() {
           <Link href="mailto:johngorriceta1@gmail.com">
             <AiFillMail className="text-[40px] text-white" />
           </Link>
-          <Link href="./John_Gorriceta_Resume_2023.pdf">
+          <Link href="./John's_Resume_Late_2023.pdf">
             <AiFillFileText className="text-[40px] text-white" />
           </Link>
         </div>
