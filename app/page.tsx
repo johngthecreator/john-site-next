@@ -54,7 +54,7 @@ export default function Home() {
           <Link href="https://www.linkedin.com/in/john-gorriceta-9a0918253/">
             <AiFillLinkedin className="text-[40px] text-white" />
           </Link>
-          <Link href="mailto:johngorriceta1@gmail.com">
+          <Link href="mailto:tech@johngorriceta.com">
             <AiFillMail className="text-[40px] text-white" />
           </Link>
           <Link href="./John's_Resume_Late_2023.pdf">
