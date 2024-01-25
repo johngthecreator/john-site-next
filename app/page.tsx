@@ -44,7 +44,7 @@ export default function Home() {
           <div className="flex flex-wrap flex-row justify-center gap-5 md:gap-10">
             <SiteLink text="Ari." href="https://learnari.com/"/>
             <SiteLink text="Celeste" href="https://thecelesteproject.vercel.app/" />
-            <SiteLink text="CometNotes" href="https://cometnotes.netlify.app/"/>
+            <SiteLink text="Alto" href="https://alto-dating.pages.dev/"/>
             <SiteLink text="Conn Academy" href="https://connect-academy.vercel.app/"/>
           </div>
         </div>
