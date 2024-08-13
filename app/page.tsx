@@ -59,7 +59,7 @@ export default function Home() {
           <Link href="mailto:johngorriceta1@gmail.com">
             <AiFillMail className="text-[40px] text-white" />
           </Link>
-          <Link href="./JG_Software_Resume_Jan_2024.pdf">
+          <Link href="./resume.pdf">
             <AiFillFileText className="text-[40px] text-white" />
           </Link>
         </div>
