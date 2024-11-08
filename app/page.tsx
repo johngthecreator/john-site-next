@@ -18,8 +18,8 @@ export default function Home() {
         <h2 className="text-[40px] text-center md:text-left font-bold">About Me</h2>
         <p className="text-md text-center md:text-xl md:text-left">
         I&apos;m a passionate web engineer and AI/ML enthusiast studying at Brigham Young University -
-         Idaho. Lately, I've been experimenting with local LLMs, NLPs, and <Link className="underline" href={"https://www.inkandswitch.com/local-first"}>"Local-First"</Link> web architecture.
-         As cheesy as it sounds, I often feel like I'm an artist and software is my medium. I love applying new and novel concepts to the engineering that I do, so I&apos;m always exploring new things.
+         Idaho. Lately, I&apos;ve been experimenting with local LLMs, NLPs, and <Link className="underline" href={"https://www.inkandswitch.com/local-first"}>local-first</Link> web architecture.
+         As cheesy as it sounds, I often feel like I&apos;m an artist and software is my medium. I&apos;m always exploring new things and I love applying these new and novel concepts to the engineering that I do.
         </p>
       </div>
       <div className="flex flex-col justify-center items-center p-10 md:p-24">
